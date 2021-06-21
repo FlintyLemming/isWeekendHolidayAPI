@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {}
+    "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {}
   },
   "projects": {
-    "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {
+    "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+        "projectUniqueName": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
         "projectName": "isWeekendHolidayAPI",
-        "projectPath": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+        "projectPath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
         "packagesPath": "/Users/mitsea/.nuget/packages/",
-        "outputPath": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/obj/",
+        "outputPath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mitsea/.nuget/NuGet/NuGet.Config"
+          "/Users/mitsea/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qyf0ukCD+h+7cCP4jliIOQL/YZrYSOgki6QuP6QoS/DLz0KHoqG/LVk1Qx4q7ln8/4ibKDBdUX3a+LhOnzHrlQ==",
+  "dgSpecHash": "Ycvb2YjGDqOykaTSQTN0TeYAhXa3SHgEltSJyvVxZg3SqeK0HOINghQbfXGJ8XpJTo7c7WJ6S3/lvW975+fYxA==",
   "success": true,
-  "projectFilePath": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+  "projectFilePath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
   "expectedPackageFiles": [
     "/Users/mitsea/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/mitsea/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
