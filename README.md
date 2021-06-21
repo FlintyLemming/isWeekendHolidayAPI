@@ -20,7 +20,7 @@ WebAPI 用于判断日期是否是周末或者是节假日（.NET 学习项目�
 
 日期格式需要为 **yyyy-MM-dd**
 
-![范例](https://img.mitsea.com/blog/posts/isWeekendHolidayAPI/Untitled.png)
+![范例](https://github.com/FlintyLemming/isWeekendHolidayAPI/blob/master/isWeekendHolidayAPI/Readme/Readme.png?raw=true)
 
 ## 参数
 
