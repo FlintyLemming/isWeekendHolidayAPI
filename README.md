@@ -4,7 +4,7 @@ WebAPI 用于判断日期是否是周末或者是节假日（.NET 学习项目�
 ## To-Do
 
 - [x]  dockerfile
-- [ ]  x86 适配
+- [x]  x86 适配
 - [ ]  精简 Docker Image 大小
 
 ## 简介
