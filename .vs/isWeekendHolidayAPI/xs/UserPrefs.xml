@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{25589D26-9D88-4581-A7DE-2A5C99BBF7B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="isWeekendHolidayAPI/Services/DateInfoService.cs">
+    <Files>
+      <File FileName="isWeekendHolidayAPI/Controllers/DateInfoController.cs" Line="39" Column="1" />
+      <File FileName="isWeekendHolidayAPI/Services/DateInfoService.cs" Line="17" Column="9" />
+      <File FileName="isWeekendHolidayAPI/Assets/EmptyJSONFile.json" Line="1" Column="1" />
+      <File FileName="isWeekendHolidayAPI/Models/DateInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="isWeekendHolidayAPI" expanded="True">
+            <Node name="isWeekendHolidayAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="DateInfoService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>(string)json.SelectToken("date")</Value>
+          <Value>"\\" + filePathNew[filePathNew.Length - 1]</Value>
+          <Value>checkDate</Value>
+          <Value>ckeckDate</Value>
+          <Value>list.first</Value>
+          <Value>dt.Rows[0][0].ToString()</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.isWeekendHolidayAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

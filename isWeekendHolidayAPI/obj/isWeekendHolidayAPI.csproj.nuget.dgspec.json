@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mitsea/Projects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {}
+    "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {}
   },
   "projects": {
-    "/Users/mitsea/Projects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {
+    "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mitsea/Projects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+        "projectUniqueName": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
         "projectName": "isWeekendHolidayAPI",
-        "projectPath": "/Users/mitsea/Projects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+        "projectPath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
         "packagesPath": "/Users/mitsea/.nuget/packages/",
-        "outputPath": "/Users/mitsea/Projects/isWeekendHolidayAPI/isWeekendHolidayAPI/obj/",
+        "outputPath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mitsea/.config/NuGet/NuGet.Config"
+          "/Users/mitsea/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
