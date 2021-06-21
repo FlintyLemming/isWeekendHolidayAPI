@@ -235,11 +235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+      "projectUniqueName": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
       "projectName": "isWeekendHolidayAPI",
-      "projectPath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
+      "projectPath": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/isWeekendHolidayAPI.csproj",
       "packagesPath": "/Users/mitsea/.nuget/packages/",
-      "outputPath": "/Users/mitsea/isWeekendHolidayAPI/isWeekendHolidayAPI/obj/",
+      "outputPath": "/Users/mitsea/RiderProjects/isWeekendHolidayAPI/isWeekendHolidayAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mitsea/.nuget/NuGet/NuGet.Config"
