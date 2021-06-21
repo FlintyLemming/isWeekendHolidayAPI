@@ -3,7 +3,9 @@ WebAPI 用于判断日期是否是周末或者是节假日（.NET 学习项目�
 
 ## To-Do
 
-- [ ]  dockerfile
+- [x]  dockerfile
+- [ ]  x86 适配
+- [ ]  精简 Docker Image 大小
 
 ## 简介
 
@@ -49,3 +51,13 @@ nullable: true
 ### week - 星期
 
 integer($int32)
+
+## Docker
+
+https://hub.docker.com/r/flintylemming/isweekendholidayapi
+
+### 快速开始
+
+```bash
+docker run -d --name isWeekendHolidayAPI -p 5000:80 flintylemming/isweekendholidayapi
+```
