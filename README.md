@@ -11,6 +11,10 @@ WebAPI 用于判断日期是否是周末或者是节假日（.NET 学习项目�
 
 判断某一天是否是节假日
 
+## Demo
+
+[Get] https://restorwork.flinty.moe/DateInfo/2018-10-02
+
 ## 功能
 
 1. 支持 2017-2021 年的节假日
